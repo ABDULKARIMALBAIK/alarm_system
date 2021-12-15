@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e1f23</color>
+    <color name="colorPrimaryDark">#191a1d</color>
+    <color name="colorAccent">#E1C800</color>
+
+    <color name="flame">#BD0D06</color>
+    <color name="smoke">#E1C800</color>
+    <color name="water">#FF3746ED</color>
+    <color name="background">#28292D</color>
+
+
+</resources>
